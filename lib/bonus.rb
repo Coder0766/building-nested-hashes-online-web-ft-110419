@@ -25,8 +25,8 @@ def bonus
 # [:montague => :hero][:name => "Romeo Montague"][:status => "dead"],
 # [:capulet => :heroine] [:name => "Juliet Capulet"][:status =>  "dead"]
 
-[:montague,{:name => "Romeo Montague"}, {:status = "dead"},
-:capulet, {:name => "Juliet Capulet"}, {:status = "dead"}]
+[:montague,{:name => "Romeo Montague"}, {:status => "dead"},
+:capulet, {:name => "Juliet Capulet"}, {:status => "dead"}]
 
 
 
