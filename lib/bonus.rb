@@ -32,7 +32,7 @@ def bonus
 # :capulet, {:name => "Juliet Capulet", :status => "dead"}]
 
 epic_tragedy[:montague][:hero][:name][:status] = "dead",
-epic_tragedy[:capulet][:heroine][:name][:status] ="dead"
+epic_tragedy[:capulet][:heroine][:name][:status] = "dead"
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
